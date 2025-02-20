@@ -1,10 +1,9 @@
-Expense Tracker
+# Expense Tracker
 
-Description
 
 A tool to track personal expenses, calculate totals, and display insights.
 
-Features
+# Features
 
 Store expenses in a list.
 
@@ -18,7 +17,7 @@ Technologies Used
 
 C#
 
-How to Run
+# How to Run
 
 Clone the repository.
 
@@ -26,6 +25,6 @@ Open in Visual Studio.
 
 Run the program.
 
-Future Improvements
+# Future Improvements
 
 Add category-based filtering.
